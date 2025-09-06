@@ -34,7 +34,4 @@
       <url>https://maven.pkg.github.com/nitinkc/BOM-ParentPOM</url>
     </repository>
   </distributionManagement>
-
-
 </project>
-
