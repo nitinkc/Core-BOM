@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nitin.personal</groupId>
   <artifactId>parent-pom</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <packaging>pom</packaging>
   <name>Personal Parent POM</name>
   <description>Parent POM with plugins and BOM import</description>
